@@ -3,7 +3,7 @@ services:
     name: waifu-bot
     env: node
     rootDir: src
-    buildCommand: cd src && npm install
+    buildCommand: cd src; npm install
     startCommand: npm start
     envVars:
       - key: NODE_ENV
