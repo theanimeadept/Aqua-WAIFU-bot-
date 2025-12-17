@@ -10,13 +10,13 @@ let isConnected = false;
 async function connectDB() {
     if (isConnected) return;
 
-    try {
-        const dbUrl = process.env.DATABASE_URL;
-        if (!dbUrl) {
-            console.warn('⚠️ DATABASE_URL not provided. Running without database.');
-            return;
-        }
+    const dbUrl = process.env.MONGODB_URI || process.env.DATABASE_URL;
+    if (!dbUrl) {
+        console.warn('⚠️ MONGODB_URI not provided. Running in NO-DB MODE.');
+        return;
+    }
 
+    try {
         await mongoose.connect(dbUrl, {
             useNewUrlParser: true,
             useUnifiedTopology: true,
@@ -29,7 +29,7 @@ async function connectDB() {
         await migrateData();
     } catch (error) {
         console.warn('⚠️ Failed to connect to MongoDB:', error.message);
-        console.warn('Bot will continue running without database functionality.');
+        console.warn('Running in NO-DB MODE.');
     }
 }
 
