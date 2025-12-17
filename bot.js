@@ -39,8 +39,6 @@ const bot = new TelegramBot(token, {
     polling: false  // Never use polling on Render - always use webhooks
 });
 
-});
-
 connectDB();
 
 const app = express();
@@ -593,20 +591,20 @@ ensureUserDataDir();
 
 async function saveUserDataToFile(userId) {
     try {
-        const user = await pool.query('SELECT * FROM users WHERE user_id = $1', [userId]);
-        if (user.rows.length === 0) return;
+        const user = await User.findOne({ user_id: userId });
+        if (!user) return;
 
-        const harem = await pool.query('SELECT waifu_id FROM harem WHERE user_id = $1', [userId]);
+        const harem = await Harem.find({ user_id: userId });
 
         const userData = {
             user_id: userId,
-            username: user.rows[0].username,
-            first_name: user.rows[0].first_name,
-            berries: user.rows[0].berries,
-            daily_streak: user.rows[0].daily_streak,
-            weekly_streak: user.rows[0].weekly_streak,
-            favorite_waifu_id: user.rows[0].favorite_waifu_id,
-            waifus: harem.rows.map(h => h.waifu_id),
+            username: user.username,
+            first_name: user.first_name,
+            berries: user.berries,
+            daily_streak: user.daily_streak,
+            weekly_streak: user.weekly_streak,
+            favorite_waifu_id: user.favorite_waifu_id,
+            waifus: harem.map(h => h.waifu_id),
             last_updated: new Date().toISOString()
         };
 
