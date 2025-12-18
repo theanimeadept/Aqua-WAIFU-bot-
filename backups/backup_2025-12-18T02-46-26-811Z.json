@@ -1,0 +1,3213 @@
+{
+  "timestamp": "2025-12-18T02:46:26.811Z",
+  "users": [
+    {
+      "user_id": "136817688",
+      "username": "Channel_Bot",
+      "first_name": "Channel",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.427Z"
+    },
+    {
+      "user_id": "5147822244",
+      "username": "I_shadwoo",
+      "first_name": "︎ ︎︎ ︎︎ ︎︎ ︎︎ ︎︎ ︎︎ ︎︎ ︎ ︎ ︎︎ ︎︎ ︎︎ ︎︎🍓",
+      "berries": 5844,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.430Z"
+    },
+    {
+      "user_id": "5260405120",
+      "username": null,
+      "first_name": "Luffy",
+      "berries": 34364,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 90,
+          "name": "Sesshoumaru",
+          "anime": "Inuyasha",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.432Z"
+    },
+    {
+      "user_id": "5665891012",
+      "username": "KILLER_EREN",
+      "first_name": "⚡𝙀 𝙍 𝙀 𝙉 𝙔 𝙀 𝘼 𝙂 𝙀 𝙍⚡",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.439Z"
+    },
+    {
+      "user_id": "5710766998",
+      "username": "Lord_6shadow9",
+      "first_name": "Aryan",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 12,
+          "name": "Ruka Sarashina",
+          "anime": "Rent A Girlfriend",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 88,
+          "name": "Gun Park",
+          "anime": "Lookism",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.442Z"
+    },
+    {
+      "user_id": "5756495153",
+      "username": "akaza7902",
+      "first_name": "𝙰𝙱𝙷𝙸",
+      "berries": 6171,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.471Z"
+    },
+    {
+      "user_id": "5834136812",
+      "username": null,
+      "first_name": "❛ . 𝐒 𝐄 𝐈 𝐒 𝐇 𝐈 𝐑 𝐎 𝐍 𝐀 𝐆 𝐈 ꯭™ | 𓂃• ‹𝟹",
+      "berries": 8072662,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 1,
+      "weekly_streak": 1,
+      "last_daily_claim": "2025-11-25T09:40:26.928Z",
+      "last_weekly_claim": "2025-11-25T09:42:36.342Z",
+      "favorite_waifu_id": null,
+      "total_waifus": 3,
+      "roles": [
+        "sudo"
+      ],
+      "harem": [
+        {
+          "waifu_id": 35,
+          "name": "Ichigo Kurosaki",
+          "anime": "Bleach",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 3,
+          "name": "Nakano itsuki",
+          "anime": "The Quintessential Quintuplets",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 101,
+          "name": "Moon knight",
+          "anime": "Marvel",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.476Z"
+    },
+    {
+      "user_id": "5931372194",
+      "username": "NOT_INTRESTED",
+      "first_name": "ㅤㅤㅤㅤ𝐍 𝚵 𝐗 𝐗ㅤㅤㅤㅤㅤ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.492Z"
+    },
+    {
+      "user_id": "6039386431",
+      "username": null,
+      "first_name": "Nukuu.....⚈̥̥̥̥̥́",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.496Z"
+    },
+    {
+      "user_id": "6196069022",
+      "username": "AkumaxSama",
+      "first_name": "Aᴋᴜᴍᴀ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.498Z"
+    },
+    {
+      "user_id": "6245574035",
+      "username": "ENDLES_ERA",
+      "first_name": "𝗧𝗛𝗘𝗚𝗔𝗠𝗘𝗥𝗔𝗗𝗘𝗣𝗧🫀🜲ᴀ×ᴡ 𓆩🖤𓆪",
+      "berries": 3231317,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 3,
+      "weekly_streak": 2,
+      "last_daily_claim": "2025-11-25T09:42:26.385Z",
+      "last_weekly_claim": "2025-11-25T09:42:33.108Z",
+      "favorite_waifu_id": 27,
+      "total_waifus": 22,
+      "roles": [
+        "dev",
+        "uploader"
+      ],
+      "harem": [
+        {
+          "waifu_id": 21,
+          "name": "Mikasa Ackerman",
+          "anime": "Attack on Titan",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 27,
+          "name": "The Rumbling",
+          "anime": "Attack On Titan",
+          "rarity": 16,
+          "rarity_name": "AMV 🎥"
+        },
+        {
+          "waifu_id": 50,
+          "name": "Raiden Shogun",
+          "anime": "Genshin impact",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 23,
+          "name": "Miyo Sasaki",
+          "anime": "A Whisker Away",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 13,
+          "name": "power",
+          "anime": "chainsaw man",
+          "rarity": 5,
+          "rarity_name": "Summer 🏖"
+        },
+        {
+          "waifu_id": 68,
+          "name": "Boa Hancock",
+          "anime": "One piece",
+          "rarity": 7,
+          "rarity_name": "Valentine 💕"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 2,
+          "name": "Roronoa Zoro",
+          "anime": "One Piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 63,
+          "name": "Konan",
+          "anime": "Naruto shippuden",
+          "rarity": 5,
+          "rarity_name": "Summer 🏖"
+        },
+        {
+          "waifu_id": 34,
+          "name": "Tanjiro Kamado",
+          "anime": "Demon Slayer",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 15,
+          "name": "Gwen Tennyson",
+          "anime": "Ben 10",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 57,
+          "name": "Rem",
+          "anime": "Re:zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 35,
+          "name": "Ichigo Kurosaki",
+          "anime": "Bleach",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 12,
+          "name": "Ruka Sarashina",
+          "anime": "Rent A Girlfriend",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 99,
+          "name": "Ryomen sukuna",
+          "anime": "Jujutsu kaisen",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 101,
+          "name": "Moon knight",
+          "anime": "Marvel",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 3,
+          "name": "Nakano itsuki",
+          "anime": "The Quintessential Quintuplets",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 90,
+          "name": "Sesshoumaru",
+          "anime": "Inuyasha",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 25,
+          "name": "Rias Gremory",
+          "anime": "High School DxD",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 22,
+          "name": "Saitama",
+          "anime": "One punch man",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 20,
+          "name": "Naruto Uzumaki",
+          "anime": "Naruto Shippuden",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 82,
+          "name": "Emilia",
+          "anime": "Re:Zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.501Z"
+    },
+    {
+      "user_id": "6260232987",
+      "username": "Obanai_the_serpant_hashira",
+      "first_name": "👑𝕂𝕚𝕟𝕘 𝔥𝔞𝔰𝔥𝔦𝔯𝔞🔥",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 21,
+          "name": "Mikasa Ackerman",
+          "anime": "Attack on Titan",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 16,
+          "name": "Yoruichi Shihouin",
+          "anime": "Bleach",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.585Z"
+    },
+    {
+      "user_id": "6317807388",
+      "username": "Anubhav_00132",
+      "first_name": "〆ᎷʀܔᎪɴᴜʙʜᴀᴠツ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 44,
+          "name": "Tatsumaki",
+          "anime": "One punch man",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.595Z"
+    },
+    {
+      "user_id": "6353553958",
+      "username": "DemonXploit",
+      "first_name": "Makoto",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [
+        "uploader"
+      ],
+      "harem": [
+        {
+          "waifu_id": 117,
+          "name": "Jinx",
+          "anime": "league of legends",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.609Z"
+    },
+    {
+      "user_id": "6374911003",
+      "username": "SIR_GHOST_RILEY",
+      "first_name": "SIMON_RILEY 🜲ᴀ×ᴡ 𓆩🖤𓆪",
+      "berries": 3111226,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 3,
+      "weekly_streak": 2,
+      "last_daily_claim": "2025-11-25T09:40:55.049Z",
+      "last_weekly_claim": "2025-11-24T09:41:12.169Z",
+      "favorite_waifu_id": 58,
+      "total_waifus": 17,
+      "roles": [
+        "uploader"
+      ],
+      "harem": [
+        {
+          "waifu_id": 27,
+          "name": "The Rumbling",
+          "anime": "Attack On Titan",
+          "rarity": 16,
+          "rarity_name": "AMV 🎥"
+        },
+        {
+          "waifu_id": 16,
+          "name": "Yoruichi Shihouin",
+          "anime": "Bleach",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 52,
+          "name": "Killua Zoldyck",
+          "anime": "Hunter x hunter",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 60,
+          "name": "Kafka",
+          "anime": "Honkai:star rail",
+          "rarity": 11,
+          "rarity_name": "Celestial 🪽"
+        },
+        {
+          "waifu_id": 55,
+          "name": "Yor forger",
+          "anime": "Spy x family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 19,
+          "name": "Kafka",
+          "anime": "Honkai:star rail",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 23,
+          "name": "Miyo Sasaki",
+          "anime": "A Whisker Away",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 82,
+          "name": "Emilia",
+          "anime": "Re:Zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 9,
+          "name": "Albedo",
+          "anime": "Overlord",
+          "rarity": 10,
+          "rarity_name": "Neon 💫"
+        },
+        {
+          "waifu_id": 97,
+          "name": "Citali",
+          "anime": "Genshin Impact",
+          "rarity": 5,
+          "rarity_name": "Summer 🏖"
+        },
+        {
+          "waifu_id": 93,
+          "name": "Monkey D. Luffy",
+          "anime": "One piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 58,
+          "name": "Jin Sakai",
+          "anime": "Ghost of Tsushima",
+          "rarity": 8,
+          "rarity_name": "Manga ✨"
+        },
+        {
+          "waifu_id": 15,
+          "name": "Gwen Tennyson",
+          "anime": "Ben 10",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 25,
+          "name": "Rias Gremory",
+          "anime": "High School DxD",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 57,
+          "name": "Rem",
+          "anime": "Re:zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 24,
+          "name": "Son goku",
+          "anime": "Dragon Ball",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.616Z"
+    },
+    {
+      "user_id": "6501214889",
+      "username": "Demonlord63",
+      "first_name": "Đ₳Ɽ₭ ĐɆVłⱠ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.665Z"
+    },
+    {
+      "user_id": "6518137747",
+      "username": "Tanjiro_033",
+      "first_name": "Tanjiro",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.667Z"
+    },
+    {
+      "user_id": "6687703327",
+      "username": "The_ray_0007",
+      "first_name": "ꜱʜɪɴᴄʜᴀɴ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 6,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 24,
+          "name": "Son goku",
+          "anime": "Dragon Ball",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 35,
+          "name": "Ichigo Kurosaki",
+          "anime": "Bleach",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 19,
+          "name": "Kafka",
+          "anime": "Honkai:star rail",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 55,
+          "name": "Yor forger",
+          "anime": "Spy x family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 15,
+          "name": "Gwen Tennyson",
+          "anime": "Ben 10",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.672Z"
+    },
+    {
+      "user_id": "6753023879",
+      "username": null,
+      "first_name": "Ben",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 57,
+          "name": "Rem",
+          "anime": "Re:zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 23,
+          "name": "Miyo Sasaki",
+          "anime": "A Whisker Away",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.694Z"
+    },
+    {
+      "user_id": "6821172389",
+      "username": "The_Death_Dealer",
+      "first_name": "Ashu",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 45,
+          "name": "Monkey D. luffy",
+          "anime": "One piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.703Z"
+    },
+    {
+      "user_id": "6822713015",
+      "username": "iamnobita2967",
+      "first_name": "Nobita🜲ᴀ×ᴡ 𓆩🖤𓆪",
+      "berries": 3050000,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 1,
+      "weekly_streak": 1,
+      "last_daily_claim": "2025-11-24T10:32:11.985Z",
+      "last_weekly_claim": "2025-11-24T10:32:21.991Z",
+      "favorite_waifu_id": null,
+      "total_waifus": 6,
+      "roles": [
+        "dev",
+        "sudo"
+      ],
+      "harem": [
+        {
+          "waifu_id": 25,
+          "name": "Rias Gremory",
+          "anime": "High School DxD",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 19,
+          "name": "Kafka",
+          "anime": "Honkai:star rail",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 44,
+          "name": "Tatsumaki",
+          "anime": "One punch man",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 101,
+          "name": "Moon knight",
+          "anime": "Marvel",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.709Z"
+    },
+    {
+      "user_id": "6913347548",
+      "username": "Thewarrior124",
+      "first_name": "ᶦᶰᵈ Mʀ᭄࿊┊꧁𓆩𝓐𝓼𝓱🪽꧂ 𖣘 ¦'๋ࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣩࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧࣧ͜͡",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 21,
+          "name": "Mikasa Ackerman",
+          "anime": "Attack on Titan",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 31,
+          "name": "Yor forger",
+          "anime": "Spy x family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.739Z"
+    },
+    {
+      "user_id": "6945777532",
+      "username": "Thalapathi069",
+      "first_name": "‎ ‌‎ 💔 ‎ ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 55,
+          "name": "Yor forger",
+          "anime": "Spy x family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.745Z"
+    },
+    {
+      "user_id": "6961145569",
+      "username": "bhk_mc",
+      "first_name": "ㅤㅤㅤㅤㅤㅤ",
+      "berries": 3050000,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 2,
+      "weekly_streak": 2,
+      "last_daily_claim": "2025-11-25T03:51:16.797Z",
+      "last_weekly_claim": "2025-11-25T04:01:35.758Z",
+      "favorite_waifu_id": null,
+      "total_waifus": 6,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 22,
+          "name": "Saitama",
+          "anime": "One punch man",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 57,
+          "name": "Rem",
+          "anime": "Re:zero",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 81,
+          "name": "goku",
+          "anime": "Dragon Ball",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 51,
+          "name": "Alisa Mikhailovna Kujou",
+          "anime": "Alya Sometimes Hides Her Feelings in Russian",
+          "rarity": 11,
+          "rarity_name": "Celestial 🪽"
+        },
+        {
+          "waifu_id": 90,
+          "name": "Sesshoumaru",
+          "anime": "Inuyasha",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.766Z"
+    },
+    {
+      "user_id": "7095997751",
+      "username": "OfficialMarutiKumar",
+      "first_name": "[\\/]卂尺ㄩㄒl☯",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 45,
+          "name": "Monkey D. luffy",
+          "anime": "One piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.785Z"
+    },
+    {
+      "user_id": "7215212687",
+      "username": "anuragmahant",
+      "first_name": "Anurag",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 3,
+      "roles": [
+        "uploader"
+      ],
+      "harem": [
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 20,
+          "name": "Naruto Uzumaki",
+          "anime": "Naruto Shippuden",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 22,
+          "name": "Saitama",
+          "anime": "One punch man",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.790Z"
+    },
+    {
+      "user_id": "7307385698",
+      "username": "JrUmemiya7",
+      "first_name": "Haruka",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 21,
+          "name": "Mikasa Ackerman",
+          "anime": "Attack on Titan",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.804Z"
+    },
+    {
+      "user_id": "7584444163",
+      "username": "Kibutsuji_backup",
+      "first_name": "Muzan (backup)",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 46,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 12,
+          "name": "Ruka Sarashina",
+          "anime": "Rent A Girlfriend",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.809Z"
+    },
+    {
+      "user_id": "7685366664",
+      "username": "Speedy846",
+      "first_name": "ɪᴛᴢᵐᵉㅤꕶᴘꫀꫀᴅყ࿐",
+      "berries": 65147,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 1,
+      "weekly_streak": 0,
+      "last_daily_claim": "2025-11-24T02:04:01.953Z",
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 6,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 86,
+          "name": "Gun Park",
+          "anime": "Lookism",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 88,
+          "name": "Gun Park",
+          "anime": "Lookism",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 81,
+          "name": "goku",
+          "anime": "Dragon Ball",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 8,
+          "name": "Yuji itadori",
+          "anime": "Jujutsu kaisen",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 25,
+          "name": "Rias Gremory",
+          "anime": "High School DxD",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 24,
+          "name": "Son goku",
+          "anime": "Dragon Ball",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.827Z"
+    },
+    {
+      "user_id": "7762559924",
+      "username": "ANUSHKA_HU_BSDK",
+      "first_name": "⏤‌‌‌𝚨 ᴀ 𝛊‌፝֟ ʀ ᴀ ༗",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:11.890Z"
+    },
+    {
+      "user_id": "7977634394",
+      "username": "Inosukehashibira7777",
+      "first_name": "INOSUKE HASHIBIRA",
+      "berries": 3091,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 5,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 24,
+          "name": "Son goku",
+          "anime": "Dragon Ball",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 46,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 15,
+          "name": "Gwen Tennyson",
+          "anime": "Ben 10",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 16,
+          "name": "Yoruichi Shihouin",
+          "anime": "Bleach",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:11.893Z"
+    },
+    {
+      "user_id": "8011402535",
+      "username": "TheSilentEye0",
+      "first_name": "S I L E N T ⋆",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.033Z"
+    },
+    {
+      "user_id": "8024543857",
+      "username": "DemonUM1",
+      "first_name": "ᴋᴏᴋᴜꜱʜɪʙᴏヅ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.041Z"
+    },
+    {
+      "user_id": "8110790196",
+      "username": "II_YOUR_NEXUS_II",
+      "first_name": "𝙽 𝙴 𝚇 𝚄 𝚂 👑",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 96,
+          "name": "Yor Forger",
+          "anime": "Spy x Family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.046Z"
+    },
+    {
+      "user_id": "8163432539",
+      "username": "It_s_Basit",
+      "first_name": "𝙺 𝙰 𝙺 𝙰 𝚁 𝙾 𝚃",
+      "berries": 24187506,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 2,
+      "weekly_streak": 2,
+      "last_daily_claim": "2025-11-24T10:14:24.525Z",
+      "last_weekly_claim": "2025-11-24T10:14:28.005Z",
+      "favorite_waifu_id": null,
+      "total_waifus": 6,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 44,
+          "name": "Tatsumaki",
+          "anime": "One punch man",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 35,
+          "name": "Ichigo Kurosaki",
+          "anime": "Bleach",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 3,
+          "name": "Nakano itsuki",
+          "anime": "The Quintessential Quintuplets",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        },
+        {
+          "waifu_id": 31,
+          "name": "Yor forger",
+          "anime": "Spy x family",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.060Z"
+    },
+    {
+      "user_id": "8195158525",
+      "username": "SHUBHXM_FR",
+      "first_name": "𝙻𝚄𝙵𝙵𝚈 🜲ᴀ×ᴡ 𓆩🖤𓆪",
+      "berries": 4756,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 1,
+      "weekly_streak": 1,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [
+        "dev"
+      ],
+      "harem": [
+        {
+          "waifu_id": 9,
+          "name": "Albedo",
+          "anime": "Overlord",
+          "rarity": 10,
+          "rarity_name": "Neon 💫"
+        },
+        {
+          "waifu_id": 35,
+          "name": "Ichigo Kurosaki",
+          "anime": "Bleach",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.117Z"
+    },
+    {
+      "user_id": "8200402508",
+      "username": "Tanjirokamado7777",
+      "first_name": "TANJIRO",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 4,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 50,
+          "name": "Raiden Shogun",
+          "anime": "Genshin impact",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        },
+        {
+          "waifu_id": 18,
+          "name": "Roronoa zoro",
+          "anime": "One piece",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 25,
+          "name": "Rias Gremory",
+          "anime": "High School DxD",
+          "rarity": 2,
+          "rarity_name": "Rare 🟢"
+        },
+        {
+          "waifu_id": 90,
+          "name": "Sesshoumaru",
+          "anime": "Inuyasha",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.127Z"
+    },
+    {
+      "user_id": "8206785149",
+      "username": null,
+      "first_name": "sankalp",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 45,
+          "name": "Monkey D. luffy",
+          "anime": "One piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.145Z"
+    },
+    {
+      "user_id": "8215101040",
+      "username": "NOBITAxGAMER",
+      "first_name": "𝗡𝗢𝗕𝗜𝗧𝗔 𝗛𝗘𝗥𝗘 💥",
+      "berries": 9087,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [
+        "sudo",
+        "uploader"
+      ],
+      "harem": [
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.158Z"
+    },
+    {
+      "user_id": "8259702302",
+      "username": "Uzomakidad",
+      "first_name": "Uzomaki",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 24,
+          "name": "Son goku",
+          "anime": "Dragon Ball",
+          "rarity": 3,
+          "rarity_name": "Normal 🟣"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.176Z"
+    },
+    {
+      "user_id": "8265578798",
+      "username": null,
+      "first_name": "MR._",
+      "berries": 7364,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.186Z"
+    },
+    {
+      "user_id": "8278282076",
+      "username": "King_of_Curses_18",
+      "first_name": "Subaruツ",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.197Z"
+    },
+    {
+      "user_id": "8280742381",
+      "username": "Saadgi5",
+      "first_name": "Kashi 💖",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.199Z"
+    },
+    {
+      "user_id": "8320187005",
+      "username": "Simply_Undertaker",
+      "first_name": "Thᥱ Undᥱrtᥲkᥱr 〆 ᴅ͢͢͢×ʜ ✨",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": 47,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 47,
+          "name": "Sung jinwoo",
+          "anime": "Solo leveling",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.204Z"
+    },
+    {
+      "user_id": "8365459336",
+      "username": "Aqua_waifu_bot",
+      "first_name": "𝗔𝗤𝗨𝗔 𝗪𝗔𝗜𝗙𝗨 𝗕𝗢𝗧",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 0,
+      "roles": [],
+      "harem": [],
+      "created_at": "2025-12-16T17:00:12.214Z"
+    },
+    {
+      "user_id": "8386613158",
+      "username": "Kibutsuji_muzan_22",
+      "first_name": "👑 ᴍᴜᴢᴀɴ亗ᴋɪʙᴜᴛsᴜᴊɪ 🥀〆 ᴅ‌‌‌×ʜ ✨",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 2,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 22,
+          "name": "Saitama",
+          "anime": "One punch man",
+          "rarity": 1,
+          "rarity_name": "Common ⚪"
+        },
+        {
+          "waifu_id": 45,
+          "name": "Monkey D. luffy",
+          "anime": "One piece",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.217Z"
+    },
+    {
+      "user_id": "8420503584",
+      "username": null,
+      "first_name": "Vegita",
+      "berries": 0,
+      "gems": 0,
+      "crimson": 0,
+      "daily_streak": 0,
+      "weekly_streak": 0,
+      "last_daily_claim": null,
+      "last_weekly_claim": null,
+      "favorite_waifu_id": null,
+      "total_waifus": 1,
+      "roles": [],
+      "harem": [
+        {
+          "waifu_id": 61,
+          "name": "Mitsuri Kanroji",
+          "anime": "Demon Slayer",
+          "rarity": 4,
+          "rarity_name": "Legendary 🟡"
+        }
+      ],
+      "created_at": "2025-12-16T17:00:12.230Z"
+    }
+  ],
+  "waifus": [
+    {
+      "waifu_id": 1,
+      "name": "Nami",
+      "anime": "One Piece",
+      "rarity": 14,
+      "rarity_name": "Masterpiece 💸",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIfzmkioGMN0IMdhdlPlp5VLuJ6IddoAAKgC2sbmX4ZVQvYr8-INyKvAQADAgADeQADNgQ",
+      "price": 1200000,
+      "is_locked": true,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T15:48:17.316Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 2,
+      "name": "Roronoa Zoro",
+      "anime": "One Piece",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkBAAIPD2kgie8e-PAoiG1RrCek4NsAAY6MnwACRw1rG0EwCVUAAdrVDxHCEYEBAAMCAAN5AAM2BA",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T15:49:42.564Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 3,
+      "name": "Nakano itsuki",
+      "anime": "The Quintessential Quintuplets",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAxkBAAIPHWkgin-A5n7CZZUbJtC2gnAHLdskAAJLDWsbQTAJVW8k2aaMajFZAQADAgADeQADNgQ",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T15:51:41.472Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 4,
+      "name": "Hinata Tachibana",
+      "anime": "Tokyo revengers",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIaJ2keuN1Xnhh8TNVs5VDHSDutEszeAALnC2sbZIT4VHoep4qQZ5qXAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T15:52:59.107Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 5,
+      "name": "Hinata Tachibana",
+      "anime": "Tokyo revengers",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIc2GkgcVjgBJWv1KwSz7AKJgSRLLkOAALLDGsbkTgBVfIcjhL9GOpfAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T15:53:16.160Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 6,
+      "name": "Makima",
+      "anime": "Chainsaw man",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAId42khhR3I8uDehnzWp1SqZClhWLRDAAL0C2sbkTgJVcq0ThjLw1DfAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-22T09:40:51.421Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 7,
+      "name": "Anna yanami",
+      "anime": "Too Many Losing Heroines",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAId7mkhhVRXhzNbHvGXPEfeGpUajJIxAAL1C2sbkTgJVfXRc5kJqnh-AQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-22T09:41:47.100Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 8,
+      "name": "Yuji itadori",
+      "anime": "Jujutsu kaisen",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeDmkhhuwN5M1ZzSDGD9-ymDZx7ep-AAL-C2sbkTgJVQMVzI-XurmgAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-22T09:48:34.964Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 9,
+      "name": "Albedo",
+      "anime": "Overlord",
+      "rarity": 10,
+      "rarity_name": "Neon 💫",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeEmkhiEgXw01gz-DyslWsVGrws4LLAAIDDGsbkTgJVckO1hClXgluAQADAgADeAADNgQ",
+      "price": 700000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-22T09:56:40.881Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 10,
+      "name": "Boa Hancock",
+      "anime": "one piece",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeNWkhiKs20lyuu1Sf6tdQvPuMZwz4AAIGDGsbkTgJVaIVdBpBNmysAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-22T09:56:41.554Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 11,
+      "name": "Marin kitagawa",
+      "anime": "My dress up darling",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeEWkhh5sQ6f_b-1QMSvLZQwWZWRTqAAMMaxuROAlVQUq5j7SeaZEBAAMCAAN5AAM2BA",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-22T10:01:17.953Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 12,
+      "name": "Ruka Sarashina",
+      "anime": "Rent A Girlfriend",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIed2khiv5Tf1kjVbZ3gUxRC26m5UtEAAJWDGsbd0sIVeuN4VZeoUorAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-22T10:07:13.048Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 13,
+      "name": "power",
+      "anime": "chainsaw man",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAxkBAAILkmkd3wQ2yCuotcBiGk_M5nof693HAAIEEmsbD13gVCrvqJ-tyt_IAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.059Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 14,
+      "name": "Anna yamada",
+      "anime": "The danger in my heart",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAxkBAAILlGkd3wSsVs0XmVe2A01cd3xwBGJCAALNDGsbwwXJVBJCisbdKm3HAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.121Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 15,
+      "name": "Gwen Tennyson",
+      "anime": "Ben 10",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAxkBAAILlWkd3wQbA2ggrhytTsS8P2wSLuw1AAJuDGsbmmPgVCMsRzVZW_5zAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.181Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 16,
+      "name": "Yoruichi Shihouin",
+      "anime": "Bleach",
+      "rarity": 1,
+      "rarity_name": "Common ⚪",
+      "image_file_id": "AgACAgUAAxkBAAILlmkd3wRuYtiWMPIfWM5NaPv_gWwRAAIuDGsbMQK5VMMWVY9xw0RIAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.241Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 17,
+      "name": "lauma",
+      "anime": "Genshin impact",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAxkBAAILl2kd3wQk4sjSInfu3eBoVaQwqTTxAAIkEmsbD13gVAZE56d0fYjHAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.301Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 18,
+      "name": "Roronoa zoro",
+      "anime": "One piece",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAxkBAAILmGkd3wSAmRceLKUd5G5w14lWwU_TAAJrDGsbmmPgVKzvFcl40KH2AQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.363Z",
+      "total_owners": 8
+    },
+    {
+      "waifu_id": 19,
+      "name": "Kafka",
+      "anime": "Honkai:star rail",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAxkBAAILmWkd3wRZzEoV4YgNKEe5ZO1FtOy6AALZDGsbmmPgVJfvqytB8SpVAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.423Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 20,
+      "name": "Naruto Uzumaki",
+      "anime": "Naruto Shippuden",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkDAAIQXmkiktCTRkVNX61kaBJ6f_v1RBlXAAJTDGsbE1nJVPOcwqm5b7SCAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.483Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 21,
+      "name": "Mikasa Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": 1,
+      "rarity_name": "Common ⚪",
+      "image_file_id": "AgACAgUAAxkBAAILm2kd3wTN4IHwwV64uk6T4cmpIl9mAALJDGsbmmPgVBCbZ4gWgxPbAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.543Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 22,
+      "name": "Saitama",
+      "anime": "One punch man",
+      "rarity": 1,
+      "rarity_name": "Common ⚪",
+      "image_file_id": "AgACAgUAAxkBAAILnGkd3wRODthnOzh32sGzegnrQoGbAAKZC2sbCg_IVKEBIzJQyldbAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.604Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 23,
+      "name": "Miyo Sasaki",
+      "anime": "A Whisker Away",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkBAAILnWkd3wTwgHJfwjuNRRyZm152mm5aAAIoC2sbImzpVIPneUvv73U1AQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.664Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 24,
+      "name": "Son goku",
+      "anime": "Dragon Ball",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAxkBAAILnmkd3wQJhHeV4t7AB8MSaAJL7IkQAAL9DWsbD13gVDTy50Ryx5K_AQADAgADeQADNgQ",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.724Z",
+      "total_owners": 5
+    },
+    {
+      "waifu_id": 25,
+      "name": "Rias Gremory",
+      "anime": "High School DxD",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAxkBAAILn2kd3wQcWuaiOhKnIhRj0vQMRF0SAALXDGsbmmPgVCEWq_DKE7I5AQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.785Z",
+      "total_owners": 5
+    },
+    {
+      "waifu_id": 26,
+      "name": "Gojo satoru",
+      "anime": "Jujutsu kaisen",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAxkBAAILoGkd3wQ8X0yy3djnR6Ks2aBP7AFrAALaDGsbmmPgVO94Xw8acEGtAQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.845Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 27,
+      "name": "The Rumbling",
+      "anime": "Attack On Titan",
+      "rarity": 16,
+      "rarity_name": "AMV 🎥",
+      "image_file_id": "BAACAgUAAxkBAAILoWkd3wS_CkWqTrAPHURMYjZiF0qyAAIfGwAC3lTpVNpLYiUm-3TLNgQ",
+      "price": 1400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:11.905Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 28,
+      "name": "Vinsmoke Sanji",
+      "anime": "One Piece",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAxkBAAIL2Wkd4nXL-bZAQJsyk9kPU-ranQ-fAAIHDmsbJtzoVPiEMUE5sS5uAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.025Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 29,
+      "name": "Alisa Mikhailovna Kujou",
+      "anime": "Alya Sometimes Hides Her Feelings in Russian",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAxkBAAIL5Gkd4wgnNfGV-topOdqy3tSAl1HeAAIJDmsbJtzoVC98tZRzk-nWAQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.086Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 30,
+      "name": "Sasuke uchiha",
+      "anime": "Naruto shippuden",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYIWkd4qmfthPXAj5AwkU1bSVwiio5AAK1C2sbZITwVPwZtRk4XnT3AQADAgADeAADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.146Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 31,
+      "name": "Yor forger",
+      "anime": "Spy x family",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYQGkd5MR2HYAqQuWYpx4YRr_GdHPcAAJnC2sbZITwVGFEL16Y0BXOAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.206Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 32,
+      "name": "Obito uchiha",
+      "anime": "Naruto shippuden",
+      "rarity": 10,
+      "rarity_name": "Neon 💫",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYPGkd5BtTNCy9qYuxYQpbX7OBH6CmAAJkC2sbZITwVI3gS2eAGc71AQADAgADeAADNgQ",
+      "price": 700000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.267Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 33,
+      "name": "Vegeta",
+      "anime": "Dragon Ball",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYRWkd5ROZ3piOekPXpBoSzusbwc9SAAJgC2sbZITwVJgG-KWr54W_AQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.326Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 34,
+      "name": "Tanjiro Kamado",
+      "anime": "Demon Slayer",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYP2kd5HPklY5Uy72p-gu1A4YxoerjAAJiC2sbZITwVKegNzsLv81nAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.386Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 35,
+      "name": "Ichigo Kurosaki",
+      "anime": "Bleach",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYUmkd5Vv_UtIgiztRciLyD3TNOtPeAAJoC2sbZITwVLrr7n4mfO19AQADAgADeQADNgQ",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.446Z",
+      "total_owners": 5
+    },
+    {
+      "waifu_id": 36,
+      "name": "Monkey D. Luffy",
+      "anime": "One Piece",
+      "rarity": 10,
+      "rarity_name": "Neon 💫",
+      "image_file_id": "AgACAgUAAxkBAAIL-2kd5c6XKyUBB8QLd_m2Mll-FTUqAAIxDWsbSCvwVNHL6jn1k3sEAQADAgADeQADNgQ",
+      "price": 700000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-21T14:51:12.507Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 37,
+      "name": "Hinata hyuga",
+      "anime": "Naruto",
+      "rarity": 12,
+      "rarity_name": "Mythical 🪭",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYXWkd5ey8AT-oGtGUlmt9RpJyhEK8AAL6DWsbD13oVM6iLcA4mQgQAQADAgADeQADNgQ",
+      "price": 900000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.567Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 38,
+      "name": "Ryomen sukuna",
+      "anime": "Jujutsu kaisen",
+      "rarity": 10,
+      "rarity_name": "Neon 💫",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYNGkd49ugQFWTnt_FrIDu1AUns7sUAAKuC2sbZITwVMEMjyIs-c6CAQADAgADeAADNgQ",
+      "price": 700000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.627Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 39,
+      "name": "Konan",
+      "anime": "Naruto Shippuden",
+      "rarity": 16,
+      "rarity_name": "AMV 🎥",
+      "image_file_id": "BAACAgUAAxkBAAIJSWkd5kVt4-AjJYZ5HwSJLF1AVJUfAAL8GAAC3lThVMK9IS1L4cFDNgQ",
+      "price": 1400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.687Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 40,
+      "name": "Son Goku",
+      "anime": "Dragon Ball Z",
+      "rarity": 16,
+      "rarity_name": "AMV 🎥",
+      "image_file_id": "BAACAgUAAyEFAATDOVlpAAIWwWkd5motHppoVTeJKbdM7IeK-pgNAAJuFgACZITwVMzjZFiiuBFANgQ",
+      "price": 1400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-21T14:51:12.747Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 41,
+      "name": "Taki & Mitsuha",
+      "anime": "Your name",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYZ2kd5qBtxnwl79il-nXJFz0GPkYVAALvC2sbZITwVOslQp_dKmjcAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.807Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 42,
+      "name": "Guts",
+      "anime": "Berserk",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYamkd5u-E4BAp0M9_SeUsXBL1LA1wAAJpC2sbZITwVHJWRnT2fk98AQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.868Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 43,
+      "name": "Shinobu kocho",
+      "anime": "Demon Slayer",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYbWkd5zWYBi7ojmFQod2iEQujwVL9AALEDGsbmmPgVAa6jQKE0y54AQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.928Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 44,
+      "name": "Tatsumaki",
+      "anime": "One punch man",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYcmkd58TP36yLdSlwmUG8HwaKR0JeAAJnDGsbmmPgVBtXi9EXunWIAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:12.988Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 45,
+      "name": "Monkey D. luffy",
+      "anime": "One piece",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYd2kd6AWzIMK3cVl54Bxef9NAYY1hAAKKDGsbD13gVFirbOaeQBYNAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:11.965Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 46,
+      "name": "Sung jinwoo",
+      "anime": "Solo leveling",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYemkd6CRR25A0tEtBSvq_GMBmdDnkAAKWC2sbYbfZVBUmExBqDsVOAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.048Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 47,
+      "name": "Sung jinwoo",
+      "anime": "Solo leveling",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYfWkd6EoQpFS79xTWA_bIkGhrknqAAAIeC2sbE1nZVOmTbGOkULhyAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.108Z",
+      "total_owners": 6
+    },
+    {
+      "waifu_id": 48,
+      "name": "Nami",
+      "anime": "One piece",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYgGkd6G_aFEKq23XrnC96Pxt_N3GaAALVDGsbmmPgVJYV4_ByUl3tAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.168Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 49,
+      "name": "Mahiru Shiina",
+      "anime": "The Angel Next Door Spoils Me Rotten",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYkWkd6M7VGzdLl3CjUYuQ_JL_BTzSAAI8DGsbCg_AVAjuekr-K5zHAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.230Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 50,
+      "name": "Raiden Shogun",
+      "anime": "Genshin impact",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYlGkd6P08QKDpYVFkMJeDseHKpUxVAAKsC2sbCg_IVENYMQxlYBPkAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.289Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 51,
+      "name": "Alisa Mikhailovna Kujou",
+      "anime": "Alya Sometimes Hides Her Feelings in Russian",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIYl2kd6TkRiI4-DcAj-_A6DS3hYfd4AAJlC2sbZITwVGI4Khr8DzDeAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.410Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 52,
+      "name": "Killua Zoldyck",
+      "anime": "Hunter x hunter",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZMGkepAh-TVXz475awzQMjN8GEnU8AAKwC2sbZIT4VMH0-9T7ll9AAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.350Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 53,
+      "name": "Giyu Tomioka",
+      "anime": "Demon Slayer",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZNmkepFJfQC6CZ-SIOEFbFS3GMaXyAAKyC2sbZIT4VA6dmiZbTi2PAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.471Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 54,
+      "name": "Raiden Shogun [🏀]",
+      "anime": "Genshin impact",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZQmkepPG0mqRe7U-66Of_ili3EaUkAAKzC2sbZIT4VE3jIw6gssz4AQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.531Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 55,
+      "name": "Yor forger",
+      "anime": "Spy x family",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZS2kepTUwD2-QLDXTcEgOwotm3lv5AAK0C2sbZIT4VG86ehGFPWI0AQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.591Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 56,
+      "name": "Acheron",
+      "anime": "Honkai:star rail",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZUWkepbZDS9Y5MJVqbXzr_Fvnq7jvAAK4C2sbZIT4VHzI3l7iu2dUAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.651Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 57,
+      "name": "Rem",
+      "anime": "Re:zero",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZVWkepd93Z5BFm0z4ZGKCsCPgt6vyAAKpDWsbdyS5VFsU4XROC4idAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.712Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 58,
+      "name": "Jin Sakai",
+      "anime": "Ghost of Tsushima",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZW2kepkuwu-aK_Xx1E7miJ8u3TxulAAK6C2sbZIT4VD8dzM9scTjJAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.774Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 59,
+      "name": "Yor forger",
+      "anime": "Spy x family",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZi2kesXlsdRzHUCec3YboxUvBTd8tAALIC2sbZIT4VPRZb2bSuv31AQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.834Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 60,
+      "name": "Kafka",
+      "anime": "Honkai:star rail",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZiWkesKQ32WPGBPGxKOa0ZsBVAAFPswACxwtrG2SE-FRHf8Z-wj7iBgEAAwIAA3kAAzYE",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.893Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 61,
+      "name": "Mitsuri Kanroji",
+      "anime": "Demon Slayer",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZlmkesgmAbFXz2LN35QNz750nmLMvAALLC2sbZIT4VIJ5Vzv22FW0AQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:13.953Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 62,
+      "name": "Rukia Kuchiki",
+      "anime": "Bleach",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZoGkesogVNUhrJVCJXn7r_fevgISOAALMC2sbZIT4VMUGluxHdrFhAQADAgADeQADNgQ",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.015Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 63,
+      "name": "Konan",
+      "anime": "Naruto shippuden",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZvWkes_UdBFmugfKNp_6UFx7FksP1AALQC2sbZIT4VDaaJk5h855cAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.075Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 64,
+      "name": "Boa Hancock",
+      "anime": "One piece",
+      "rarity": 14,
+      "rarity_name": "Masterpiece 💸",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZuGkes3By4KR2yd3veeJfxlag9nU2AALNC2sbZIT4VG8zhK8hr17_AQADAgADeQADNgQ",
+      "price": 1200000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.136Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 65,
+      "name": "Rukia Kuchiki",
+      "anime": "Bleach",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZw2ketFkEAAHO8lfCeApu2S2WPAfWWQAC0QtrG2SE-FT39e8Ms9-WLgEAAwIAA3kAAzYE",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.196Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 66,
+      "name": "Konan",
+      "anime": "Naruto shippuden",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZxmketKHBoGx_wneV_JCFSpGopRmcAALUC2sbZIT4VJBJcYKHnZIVAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.256Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 67,
+      "name": "Tsunade senju",
+      "anime": "Naruto",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZyWketNjbIpoBHOFuf2owRaEJDfMIAALVC2sbZIT4VLpT5txeUjvNAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.316Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 68,
+      "name": "Boa Hancock",
+      "anime": "One piece",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZzGketT94VaXZGMoXEbiUTEz2BIblAALZC2sbZIT4VL1vEv04SwTWAQADAgADeQADNgQ",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.376Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 69,
+      "name": "Lust",
+      "anime": "Fullmetal Alchemist",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZ02ketd9E3goishbh3DpgPscvfJivAALbC2sbZIT4VDwAAQ9qSBRUPwEAAwIAA3kAAzYE",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.436Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 70,
+      "name": "Lust",
+      "anime": "Fullmetal Alchemist",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZ32ketkTu7gty22B37mXocblj27UlAALcC2sbZIT4VOTOQaaNcwUwAQADAgADeQADNgQ",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.496Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 71,
+      "name": "Kafka",
+      "anime": "Honkai:star rail",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIZ52ketpfQzxJX5deM4lm3dEY-S_NkAALdC2sbZIT4VGrUVz8XxxLDAQADAgADeQADNgQ",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.556Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 72,
+      "name": "Furina",
+      "anime": "Genshin impact",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIaBWket8Kz72wyI3RNf68VSgZSy2NJAAIUDGsb8f3xVNWX5DE1nzKpAQADAgADeQADNgQ",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.617Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 73,
+      "name": "Hinata Tachibana",
+      "anime": "Tokyo revengers",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIaHmkeuIqMkOpkYDpautJXmZva9hUWAAIVDGsb8f3xVDnIsKTzZAWJAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.677Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 74,
+      "name": "Hinata Tachibana",
+      "anime": "Tokyo revengers",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIaJ2keuN1Xnhh8TNVs5VDHSDutEszeAALnC2sbZIT4VHoep4qQZ5qXAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-21T14:51:14.737Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 75,
+      "name": "Sanemi Shinazugawa",
+      "anime": "Demon Slayer",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIe6Wkhvvehh5upF6x7--fN5aIQ4AZvAALkC2sbmX4RVWl56jYZwi9gAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-22T14:45:39.439Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 76,
+      "name": "Akeno himejima",
+      "anime": "High school dxd",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeA2khhgABev9mmZEDLoApLHv8lrxbOwAC-gtrG5E4CVXahThK0VG51AEAAwIAA3kAAzYE",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-22T14:45:51.292Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 77,
+      "name": "Kyojuro Rengoku",
+      "anime": "Demon Slayer",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIfcmkil2cIE0f50p8KnxkPGp9kwbI8AAKXC2sbmX4ZVf0eVaHFjlTZAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T05:25:31.877Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 78,
+      "name": "Makima",
+      "anime": "Chainsaw Man",
+      "rarity": 14,
+      "rarity_name": "Masterpiece 💸",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIfoWkinpGHXEp7oP2sY4AIGH0T3x1rAAIVC2sbCg_QVLE5Snv7lgNMAQADAgADeQADNgQ",
+      "price": 1200000,
+      "is_locked": false,
+      "uploaded_by": "8195158525",
+      "created_at": "2025-11-23T05:44:27.217Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 79,
+      "name": "Kurumi",
+      "anime": "Date a live",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIfZWkijknEKSelnSqrlqESlS3Et-CeAAKJC2sbmX4ZVebA6ikngwPWAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6353553958",
+      "created_at": "2025-11-23T05:44:51.436Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 80,
+      "name": "Levi Ackerman",
+      "anime": "Attack on Titan",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIfgGkinF8cYcPpxrvH_vJTs280Jj7qAAKbC2sbmX4ZVXUSmCYvBZaNAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T05:44:53.693Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 81,
+      "name": "goku",
+      "anime": "Dragon Ball",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeu2kioLoLCII0W7kF4Eu80S4Z8xl-AAIRDGsbkTgJVVSQbdC8fsARAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T05:50:50.476Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 82,
+      "name": "Emilia",
+      "anime": "Re:Zero",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIeoGkioMg9xxtV2wqjpTDw9INVw2u7AAIkC2sbAZgAAVWzYdsX_FWi4gEAAwIAA3kAAzYE",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T05:51:05.233Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 83,
+      "name": "Kafka",
+      "anime": "Honkai:Star Rail",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIf-2kioSU8_DzBJJ9FsVeoavoB6LbpAAJPC2sbRDPhVDRNfn204z_yAQADAgADeQADNgQ",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T05:56:35.804Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 84,
+      "name": "Citlali",
+      "anime": "Genshin Impact",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIhB2kio8yBG8X5ixigbafq_FLpJrMDAAKrC2sbmX4ZVZ4Wv78cDZtDAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T06:05:49.865Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 85,
+      "name": "Guts",
+      "anime": "Berserk",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIhFWkio-quibHRA1RvehIRraAIrxXkAAKsC2sbmX4ZVSunhRHJnHS3AQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T06:07:27.715Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 86,
+      "name": "Gun Park",
+      "anime": "Lookism",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIhfWkipYu-gIFV_lah14XcUZmVlO_uAAKwC2sbmX4ZVSOs4DqehmjxAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T06:11:33.825Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 87,
+      "name": "Erza scarlet [🏀]",
+      "anime": "Fairy tail",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIhs2kipyrz4LpSjA5UIObPELOVKV7lAAKyC2sbmX4ZVdC-xeC8WYLjAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T08:39:30.230Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 88,
+      "name": "Gun Park",
+      "anime": "Lookism",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIh3mkiqGkezirQVFJPlSUCUqFRnwpNAAK0C2sbmX4ZVbUF8PZ7KAFOAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-23T08:39:30.799Z",
+      "total_owners": 2
+    },
+    {
+      "waifu_id": 89,
+      "name": "Bulma",
+      "anime": "Dragon Ball z",
+      "rarity": 6,
+      "rarity_name": "Winter ❄️",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIiCGkiru2d8XJ-0-7HJuCL1ohxnwsyAALFC2sbmX4ZVZlUIAABgM5QlwEAAwIAA3kAAzYE",
+      "price": 600000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T08:39:31.282Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 90,
+      "name": "Sesshoumaru",
+      "anime": "Inuyasha",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIiFGkir8XUPd1D2XzcGqrtr0KhdgR2AALHC2sbmX4ZVY8Lu8a1nnIAAQEAAwIAA3kAAzYE",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T08:39:31.331Z",
+      "total_owners": 4
+    },
+    {
+      "waifu_id": 91,
+      "name": "Rias gremory",
+      "anime": "High school dxd",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIiGWkitYbjzy6Kxnq8Rn68CJ8_UonNAALNC2sbmX4ZVXW9ae8AARL89QEAAwIAA3kAAzYE",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T09:21:40.689Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 92,
+      "name": "Rias gremory",
+      "anime": "High school dxd",
+      "rarity": 7,
+      "rarity_name": "Valentine 💕",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIiHWkivsDtO7pycdMakX1z2zPMd4S-AALZC2sbmX4ZVbqm95NkZ5sHAQADAgADeQADNgQ",
+      "price": 300000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T09:21:50.731Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 93,
+      "name": "Monkey D. Luffy",
+      "anime": "One piece",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIiK2kiyDCIlK3Du4ouDtjU7NmvdlY1AALvC2sbmX4ZVT2rPlmClOn5AQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T09:22:53.317Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 94,
+      "name": "Eren Yeager",
+      "anime": "Attack on Titan",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAxkBAAISOmki6GnpqB576FW4Qk-5DTV44rBOAAJgC2sbGs0YVd4cw4kFceqpAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-23T10:56:44.978Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 95,
+      "name": "Makima",
+      "anime": "Chainsaw man",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAxkBAAISPWki6HZXWTVrEfJtJxgIoZLhl91bAAIEDGsbYRcRVbrJclMyHaBiAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-23T10:57:58.104Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 96,
+      "name": "Yor Forger",
+      "anime": "Spy x Family",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkBAAISR2ki6PqNyooooP2EcbLyJ16W41KcAAIGDGsbYRcRVcbNFigkH64AAQEAAwIAA3kAAzYE",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "8215101040",
+      "created_at": "2025-11-23T10:59:58.532Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 97,
+      "name": "Citali",
+      "anime": "Genshin Impact",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAxkBAAISTWki6bbh6xgDb-Zp9d5S6CoWsImVAAKNDGsbRA0ZVUfSdhwxtldbAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-23T13:09:35.144Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 98,
+      "name": "2b yorha",
+      "anime": "NieR: Automata Ver1.1a",
+      "rarity": 11,
+      "rarity_name": "Celestial 🪽",
+      "image_file_id": "AgACAgUAAxkBAAISVmkjB6kAARioAAFWguc4BcMJCHkQJo8AAg4NaxtEDRlVHEl_KfvmFR4BAAMCAAN5AAM2BA",
+      "price": 800000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-23T13:27:13.739Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 99,
+      "name": "Ryomen sukuna",
+      "anime": "Jujutsu kaisen",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIi12ki-g0s3eKLZ31Y4xVXjdR3bF9oAAK6DGsbmX4ZVd5Sj7dkO3tDAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T13:31:07.793Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 100,
+      "name": "Erika Amano",
+      "anime": "A couple of cuckoos",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIi4GkjDDmpe2Hr7okUP7FRmvLQCfZdAAKGDWsbmX4ZVa5oKXgLZLv8AQADAgADeQADNgQ",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T13:31:29.431Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 101,
+      "name": "Moon knight",
+      "anime": "Marvel",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIh8mkiqVZBSt3DLyGB0gxTSn9K-HJ-AAK6C2sbmX4ZVfzl0pPrswIkAQADAgADeAADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-23T14:01:14.939Z",
+      "total_owners": 3
+    },
+    {
+      "waifu_id": 103,
+      "name": "Suzume iwato",
+      "anime": "Suzume no tojimari",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIjb2kj6xcomttr63FVzguQU00osesZAAJpDGsbUN8gVUSXrhZHUNY-AQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-24T10:09:33.896Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 104,
+      "name": "Captain America",
+      "anime": "Marvel",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkBAAIUpmkjTleKlrh1iTgbYAyQ83grHttLAAKtDWsbRA0ZVXxvq8s1apfTAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-24T10:12:38.244Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 105,
+      "name": "rias gremory",
+      "anime": "High school dxd",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIkJWkkONple0nNDK_pZ6Yyg6UxhCA3AAL9C2sbUN8oVXP06LxPk0iiAQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6353553958",
+      "created_at": "2025-11-24T10:52:15.685Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 106,
+      "name": "Zenitsu Agatsuna",
+      "anime": "Demon Slayer",
+      "rarity": 10,
+      "rarity_name": "Neon 💫",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIkNWkkRPpEOKWScbdL2IJ6VAe7oXafAAIPDGsbUN8oVUCV2Gvb34MDAQADAgADeQADNgQ",
+      "price": 700000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-24T11:43:15.308Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 107,
+      "name": "Yumeko Jabami [🚔]",
+      "anime": "Kakegurui",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIjSWkj2Ll1HDJm5cQsS6cDatM1ROVFAAI1DGsbUN8gVffgaavOLkw_AQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-24T11:46:24.015Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 108,
+      "name": "Roronoa zoro",
+      "anime": "One piece",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIjYmkj36QTzBEQv4R8i06TEIHhGzkvAAJFDGsbUN8gVSWq50iw0a4qAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-24T11:46:37.930Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 109,
+      "name": "Toga himiko",
+      "anime": "My hero academia",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIkMGkkRObkfP4vvshak1TnAAHob2LIlAACDgxrG1DfKFU4be-COAQntgEAAwIAA3kAAzYE",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-24T11:46:52.726Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 110,
+      "name": "Osaragi [🚔]",
+      "anime": "Sakamoto days",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIjamkj5K-_ij9C3EGksfo9b3baCA0NAAJQDGsbUN8gVRd_h99nybY7AQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-24T11:47:48.521Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 111,
+      "name": "Gun Park",
+      "anime": "Lookism",
+      "rarity": 8,
+      "rarity_name": "Manga ✨",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIix2ki4YKGYKhJage3nGGYA-tiyjDtAAJDDGsbmX4ZVV1fVwuIlXTnAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-24T13:07:45.831Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 112,
+      "name": "Itachi Uchiha",
+      "anime": "Naruto Shippuden",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAxkBAAIW42kkaVMxRqHYxaN851IjhM8hjFrbAAJ5C2sbEJ8pVfcHytlSxNVsAQADAgADeAADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-24T13:11:34.073Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 113,
+      "name": "Ryomen Sukuna",
+      "anime": "Jujutsu Kaisen",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIkumkkdK8AAZVnjhk0FYTTL0n6NzQi7QACjwxrG1DfKFUxM5RMP0ZYVAEAAwIAA3kAAzYE",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-24T15:07:35.885Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 114,
+      "name": "Shinobu Kocho",
+      "anime": "Demon Slayer",
+      "rarity": 2,
+      "rarity_name": "Rare 🟢",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAIk8mkkdcAJMm0G6vy4wSI7_hzvW8jQAAIWDGsbCg_AVKLY8NbxttshAQADAgADeQADNgQ",
+      "price": 20000,
+      "is_locked": false,
+      "uploaded_by": "7215212687",
+      "created_at": "2025-11-24T15:14:13.732Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 115,
+      "name": "Rachnera Arachne",
+      "anime": "Monster musume",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAImXGklOJTjVl5YUwfStwas5GRSVQIZAAKRC2sbUN8wVaS425PGrvBqAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6353553958",
+      "created_at": "2025-11-25T05:12:45.550Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 116,
+      "name": "Nobita Nobi",
+      "anime": "Doraemon",
+      "rarity": 5,
+      "rarity_name": "Summer 🏖",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAImjWklPJLpVmSXnH4TMCyq5lPulHm7AAKYC2sbUN8wVSgAAXJs_R3fzgEAAwIAA3gAAzYE",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6245574035",
+      "created_at": "2025-11-25T05:16:17.495Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 117,
+      "name": "Jinx",
+      "anime": "league of legends",
+      "rarity": 3,
+      "rarity_name": "Normal 🟣",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAImg2klO-MjH-KrXnJhuGFHumuntU2JAAKWC2sbUN8wVZzW5ziqiMFyAQADAgADeQADNgQ",
+      "price": 40000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-25T05:18:15.508Z",
+      "total_owners": 1
+    },
+    {
+      "waifu_id": 118,
+      "name": "Jin Sakai",
+      "anime": "Ghost of tsushima",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAImn2klPiUf5pPwgZlVJyMe4uY4yuI0AAKcC2sbUN8wVUZNY_TZuHK-AQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-25T05:27:24.929Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 119,
+      "name": "Chrollo Lucilfer",
+      "anime": "Hunter x hunter",
+      "rarity": 4,
+      "rarity_name": "Legendary 🟡",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAInsGklfuNMNeyfKwMkR3P0RBQyeVlpAAJdDGsbUN8wVYEpWxVLxrtbAQADAgADeQADNgQ",
+      "price": 50000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-25T10:04:06.440Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 120,
+      "name": "Ayane Shirakawa",
+      "anime": "Overflow",
+      "rarity": 13,
+      "rarity_name": "Special 🫧",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAInumklf9m3Z0rWt6GRvbbU6ebzZoN8AAJfDGsbUN8wVQMZiEYxmGANAQADAgADeQADNgQ",
+      "price": 1000000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-25T10:07:34.978Z",
+      "total_owners": 0
+    },
+    {
+      "waifu_id": 121,
+      "name": "Yuzuriha [⚽]",
+      "anime": "Hell's paradise",
+      "rarity": 9,
+      "rarity_name": "Unique 👑",
+      "image_file_id": "AgACAgUAAyEFAATDOVlpAAInKWklc6EeD7LJa6Yzw3dPv7YDtcwXAAJKDGsbUN8wVTb_PIlZyvG2AQADAgADeQADNgQ",
+      "price": 400000,
+      "is_locked": false,
+      "uploaded_by": "6374911003",
+      "created_at": "2025-11-25T10:08:00.588Z",
+      "total_owners": 0
+    }
+  ],
+  "botSettings": {
+    "spawn_rate": 100,
+    "bid_rate": 150,
+    "owner_id": 6245574035,
+    "channel_id": "-1003394774430"
+  },
+  "haremStats": {
+    "total_users": "47",
+    "total_waifus": "120",
+    "total_harem_entries": "112",
+    "total_groups": "1"
+  }
+}

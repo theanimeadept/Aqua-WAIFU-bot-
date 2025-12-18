@@ -35,13 +35,14 @@ const bot = new TelegramBot(token, {
     polling: false  // Never use polling on Render - always use webhooks
 });
 
-const pool = getPool();
+// JSON persistence - no database needed
+// const pool = getPool();
 
-if (!pool) {
-    console.error('Error: Database connection failed');
-    console.error('Please check DATABASE_URL environment variable');
-    process.exit(1);
-}
+// if (!pool) {
+//     console.error('Error: Database connection failed');
+//     console.error('Please check DATABASE_URL environment variable');
+//     process.exit(1);
+// }
 
 const app = express();
 const PORT = process.env.PORT || 5000;
